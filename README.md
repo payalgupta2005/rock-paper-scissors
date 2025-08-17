@@ -10,4 +10,7 @@ A simple Rock Paper Scissors game built with **HTML, CSS, and JavaScript**.
 ## 📂 Project Structure
 - `index.html` → Game layout  
 - `style.css` → Styling  
-- `script.js` → Game logic  
+- `script.js` → Game logic
+
+## 🌐 Live Demo
+[Click here to play](https://github.com/payalgupta2005/rock-paper-scissors.git)
